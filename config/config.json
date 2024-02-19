@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "newuser",
+    "password": "password",
+    "database": "conquerer",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
